@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DisplayMessageActivity">
+
+    <TextView
+        android:id="@+id/Two"
+        android:layout_width="167dp"
+        android:layout_height="50dp"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="30sp"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="59dp" />
+</RelativeLayout>
